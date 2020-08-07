@@ -1,0 +1,22 @@
+{
+  "name": "stat-nation-bot",
+  "version": "0.0.0",
+  "description": "A Discord bot for the StatNation UTK server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TSenter/StatNationBot.git"
+  },
+  "author": "Tyler Senter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TSenter/StatNationBot/issues"
+  },
+  "homepage": "https://github.com/TSenter/StatNationBot#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
