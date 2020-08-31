@@ -1,5 +1,5 @@
 {
-  "name": "stat-nation-bot",
+  "name": "haslam-business-bot",
   "version": "0.0.0",
   "description": "A Discord bot for the StatNation UTK server",
   "main": "index.js",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/TSenter/StatNationBot#readme",
   "dependencies": {
-    "discord.js": "^12.2.0"
+    "discord.js": "^12.3.1",
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.0"
   }
 }
