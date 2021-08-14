@@ -1,0 +1,13 @@
+commands/
+    auth.js
+
+config/
+    security.json
+    options.json
+
+listeners/
+    thanks.js
+
+
+- Delete auth code entry from db after verification
+- Add user entry to db after verification

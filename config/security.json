@@ -1,0 +1,5 @@
+{
+  "discord_token": "<redacted>",
+  "sendgrid_email": "<redacted>",
+  "sendgrid_api_key": "<redacted>"
+}

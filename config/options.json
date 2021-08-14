@@ -1,0 +1,10 @@
+{
+  "prefix": "?",
+  "commands": [
+    "auth",
+    "verify"
+  ],
+  "listeners": [
+    "thanks"
+  ]
+}
